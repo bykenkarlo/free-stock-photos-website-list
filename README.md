@@ -4,9 +4,10 @@ This Github repository is made to create a list of FREE stock websites that can 
 * https://startupstockphotos.com
 * https://pexels.com
 * https://unsplash.com
-* https://userstock.io/
-* https://burst.shopify.com/
-* https://isorepublic.com/
+* https://userstock.io
+* https://burst.shopify.com
+* https://isorepublic.com
 * https://pixabay.com
-* htpps://icons8.com
-* hhttps://freepim.com
+* https://icons8.com
+* https://freepik.com
+* https://pikwizard.com
